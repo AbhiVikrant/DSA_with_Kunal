@@ -1,7 +1,8 @@
 public class BinarySearch1 {
     public static void main(String[] args) {
-        int arr[]={23,44,67,88,90,103,111,670};
-        int target=670;
+        //int arr[]={23,44,67,88,90,103,111,670};
+        int arr[]={1,1,1,1,1,1};
+        int target=1;
         System.out.println(binarySearch1(arr,target));
     }
 //     Assuming array is sorted in ascending way
